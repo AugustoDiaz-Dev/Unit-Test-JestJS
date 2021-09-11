@@ -1,0 +1,8 @@
+### UNIT TEST WITH JEST JS
+
+npm init -y
+npm i --save-dev jest
+
+Change the script test into package.json file to "jest --coverage"
+
+npm test
